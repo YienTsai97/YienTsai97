@@ -12,7 +12,7 @@ As a junior web developer specializing in front-end development since 2024, I ha
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="vvvv" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:VVVV_logo_schwarz.png#/media/File:VVVV_logo_schwarz.png">
+<img align="left" alt="vvvv" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToy8FZfle8NnCkloP1aJb1Qu6ikx-Jq7t3RJBfmLzCwfjiqD_zpVoWz54MchS-xIpNI3Q&usqp=CAU">
 <br />
 
 #
@@ -22,7 +22,7 @@ As a junior web developer specializing in front-end development since 2024, I ha
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="illustrator" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
 <img align="left" alt="afteraffects" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />      
-<img align="left" alt="Procreate" width="30px" style="padding-right:10px;"  src="https://en.wikipedia.org/wiki/File:Procreate_icon.png#/media/File:Procreate_icon.png">
-<img align="left" alt="Zbrush" width="30px" style="padding-right:10px;"  src="https://en.wikipedia.org/wiki/File:Pixologic_ZBrush_Logo.png#/media/File:Pixologic_ZBrush_Logo.png">
-<img align="left" alt="cinema4d" width="30px" style="padding-right:10px;"  src="https://en.wikipedia.org/wiki/File:C4D_Logo.png#/media/File:C4D_Logo.png">
+<img align="left" alt="Procreate" width="30px" style="padding-right:10px;"  src="https://i.pinimg.com/originals/a0/c5/2a/a0c52a9161464b1736c6ff00cf49d81f.png">
+<img align="left" alt="Zbrush" width="30px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/en/c/c6/Pixologic_ZBrush_Logo.png">
+<img align="left" alt="cinema4d" width="30px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/uk/5/5b/Cinema_4D_logo.png">
 <br />

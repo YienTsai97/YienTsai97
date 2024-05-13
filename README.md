@@ -15,6 +15,8 @@ Learning Web-Development in Cornerstone International Community College of Canad
 <img align="left" alt="vvvv" width="30px" style="padding-right:10px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToy8FZfle8NnCkloP1aJb1Qu6ikx-Jq7t3RJBfmLzCwfjiqD_zpVoWz54MchS-xIpNI3Q&usqp=CAU">
 <br />
 
+#
+
 ### 🪄 Design tools
 
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
@@ -24,6 +26,8 @@ Learning Web-Development in Cornerstone International Community College of Canad
 <img align="left" alt="Zbrush" width="30px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/en/c/c6/Pixologic_ZBrush_Logo.png">
 <img align="left" alt="cinema4d" width="30px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/uk/5/5b/Cinema_4D_logo.png">
 <br />
+
+#
 
 ### 📊 Stats
 

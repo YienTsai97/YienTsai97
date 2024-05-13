@@ -2,11 +2,11 @@
 
 **Illustrator, Animator, Web Developer**
 
-As a junior web developer specializing in front-end development since 2024, I have honed my skills in visual design and simultaneously work as an animator and illustrator. Additionally, I have experience as a project coordinator in my previous role. Beyond my technical expertise, I possess strong communication skills, adaptability, and flexibility, enabling me to collaborate effectively with diverse teams in fast-paced environments.
+Learning Web-Development in Cornerstone International Community College of Canada since 2024, I have honed my skills in visual design and simultaneously work as an animator and illustrator. Additionally, I have experience as a project coordinator in my previous role. Beyond my technical expertise, I possess strong communication skills, adaptability, and flexibility, enabling me to collaborate effectively with diverse teams in fast-paced environments.
 
 ---
 
-### 👾Language and tools
+### 👾 Language and tools
 
 <img align="left" alt="cplusplus" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -17,7 +17,7 @@ As a junior web developer specializing in front-end development since 2024, I ha
 
 #
 
-### Design tools
+### 🪄 Design tools
 
 <img align="left" alt="photoshop" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
 <img align="left" alt="illustrator" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/illustrator/illustrator-plain.svg" />
@@ -26,3 +26,9 @@ As a junior web developer specializing in front-end development since 2024, I ha
 <img align="left" alt="Zbrush" width="30px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/en/c/c6/Pixologic_ZBrush_Logo.png">
 <img align="left" alt="cinema4d" width="30px" style="padding-right:10px;"  src="https://upload.wikimedia.org/wikipedia/uk/5/5b/Cinema_4D_logo.png">
 <br />
+
+#
+
+### 📊 Stats
+
+[![Yi-En's GitHub stats](https://github-readme-stats.vercel.app/api?username=YienTsai97)](https://github.com/YienTsai97/github-readme-stats)

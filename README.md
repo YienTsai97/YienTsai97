@@ -31,4 +31,4 @@ Learning Web-Development in Cornerstone International Community College of Canad
 
 ### 📊 Stats
 
-[![Yi-En's GitHub stats](https://github-readme-stats.vercel.app/api?username=YienTsai97)](https://github.com/YienTsai97/github-readme-stats)
+[![Yi-En's GitHub stats](https://github-readme-stats.vercel.app/api?username=YienTsai97\&rank_icon=github\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)](https://github.com/YienTsai97/github-readme-stats)

@@ -1,4 +1,4 @@
-# Hello,👋 I'm Yi-En-Tsai🐱
+# Hello,👋 I'm Yi-En-Tsai
 
 **Illustrator, Animator, Web Developer**
 

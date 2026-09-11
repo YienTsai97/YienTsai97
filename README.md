@@ -1,156 +1,65 @@
-# Hi, I'm Yi-En Tsai 👋
+# Yi-En Tsai
 
-### Full-Stack Developer | SaaS Integrations | AI Applications
+### Full-Stack Developer | Product-Focused Web Development
 
-I'm a Full-Stack Developer with a background in **project coordination**, **multimedia design**, and **international experience in Canada**.
+I'm a full-stack developer with a background in multimedia design and project coordination. I combine frontend engineering, product thinking, and visual communication to build practical, user-centered web products.
 
-I enjoy building practical software that solves real-world problems—from **SaaS platforms** and **CMS integrations** to **AI-powered applications**.
+After studying and working in Canada, I am now based in Taiwan and interested in full-stack, frontend, and solutions-oriented opportunities where I can contribute across both implementation and collaboration.
 
-Currently seeking opportunities where I can combine software engineering, product thinking, and international collaboration.
-
----
-
-## 🚀 Current Focus
-
-- 🤖 Building AI-powered web applications
-- 🌐 Developing SaaS platforms and business system integrations
-- 📚 Learning Claude API, MCP, and modern AI workflows
-- 💻 Improving software engineering and system design
-- 🧩 Solving NeetCode consistently
+[Portfolio](https://yi-en-tsai.onrender.com) · [LinkedIn](https://www.linkedin.com/in/yi-en-tsai-28b2a2275/) · [Email](mailto:yeentsai@gmail.com)
 
 ---
 
-## ⭐ Featured Projects
+## Selected Work
 
-### 🚗 Vancastro Driving School
+### PlurkCSS Styler
 
-A full-stack SaaS platform for driving lesson management.
+A visual customization tool that helps Plurk users create and manage profile styles through an approachable editing interface.
 
-**Highlights**
+- Building the editor around reusable style controls and live visual feedback
+- Managing complex client-side editing state with Zustand
+- Integrating authentication and persistent user data
+- Designing the product for both manual customization and reusable styles
 
-- Lesson booking & scheduling
-- Instructor dashboard
-- Travel time calculation
-- Role-based authentication
-- QuickBooks payment integration
+**Technologies:** Next.js, React, TypeScript, Tailwind CSS, Zustand, Auth.js, Prisma, PostgreSQL
 
-**Tech**
+### VanCastro Driving School
 
-Next.js • React • Express • PostgreSQL • Prisma • Clerk • QuickBooks API • FullCalendar
+A team-built web platform for managing driving lessons, instructor schedules, and business workflows. I focused primarily on frontend implementation, translating operational requirements into booking, scheduling, and role-based user experiences.
 
----
+- Developed booking and scheduling interfaces
+- Implemented instructor availability and travel-time flows
+- Built role-aware dashboards and navigation
+- Collaborated with teammates working on backend services and business integrations
 
-### 📋 TaskPicker
+**Platform capabilities:** lesson management, instructor scheduling, authentication, and QuickBooks-connected payment workflows
 
-A lightweight Kanban application designed to simplify task organization with an intuitive drag-and-drop interface.
-
-**Tech**
-
-Astro • TypeScript • JavaScript
+**Technologies:** Next.js, React, Express, PostgreSQL, Prisma, Clerk, FullCalendar, QuickBooks API
 
 ---
 
-### 🌐 WordPress & SaaS Integrations
+## Core Technologies
 
-Volunteer projects for Canadian nonprofits.
-
-Projects include:
-
-- WooCommerce × Thinkific integration
-- HubSpot CMS optimization
-- WordPress plugin development
-- REST API integration
-
----
-
-## 🛠 Tech Stack
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![NextJS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=flat&logo=tailwind-css)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=flat&logo=express)
-
-### Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma)
-
-### CMS & Integrations
-
-- WordPress
-- WooCommerce
-- HubSpot CMS
-- Thinkific
-- QuickBooks API
-
-### Tools
-
-Git • GitHub • VS Code • Clerk
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, Vue, Nuxt, TypeScript, HTML, CSS, Tailwind CSS, SCSS |
+| Backend | Node.js, Express, REST APIs |
+| Data | PostgreSQL, Prisma, MongoDB |
+| CMS & Integrations | WordPress, WooCommerce, HubSpot CMS, QuickBooks API |
+| Workflow | Git, GitHub, Agile collaboration, technical documentation |
 
 ---
 
-## 🌎 Career Journey
+## Currently Working On
 
-🎨 Multimedia Design
-
-↓
-
-🎬 Animator
-
-↓
-
-📋 Project Coordinator
-
-↓
-
-🇨🇦 Canada
-
-↓
-
-💻 Full-Stack Developer
-
-↓
-
-🤖 AI Applications
+- Preparing PlurkCSS Styler for a public release
+- Rebuilding my portfolio with Nuxt, Vue 3, TypeScript, and reusable content-driven components
+- Exploring AI-assisted product workflows and MCP-based integrations
 
 ---
 
-## 🎯 2026 Goals
+## Background
 
-- Build production-ready AI applications
-- Deepen expertise in SaaS integrations
-- Contribute to open-source projects
-- Land a Full-Stack / Solutions Engineering role
-- Continue learning modern AI technologies
+Before moving into software development, I worked in animation and project coordination. That experience continues to shape how I approach interface clarity, stakeholder communication, and the connection between technical decisions and user needs.
 
----
-
-## 📈 GitHub Stats
-
-![Yi-En's GitHub stats](https://github-readme-stats.vercel.app/api?username=YienTsai97&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YienTsai97&layout=compact)
-
----
-
-## 🤝 Let's Connect
-
-🌐 Portfolio
-
-https://yi-en-tsai.onrender.com
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/yi-en-tsai-28b2a2275/
-
-📫 Email
-
-yeentsai@gmail.com
+I'm open to opportunities in Taiwan and remote-friendly international teams.

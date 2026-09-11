@@ -23,7 +23,7 @@ A visual customization tool that helps Plurk users create and manage profile sty
 
 **Technologies:** Next.js, React, TypeScript, Tailwind CSS, Zustand, Auth.js, Prisma, PostgreSQL
 
-### [VanCastro Driving School](https://vancastro-driving-school-v1.vercel.app/))
+### [VanCastro Driving School](https://vancastro-driving-school-v1.vercel.app/)
 
 A team-built web platform for managing driving lessons, instructor schedules, and business workflows. I focused primarily on frontend implementation, translating operational requirements into booking, scheduling, and role-based user experiences.
 
